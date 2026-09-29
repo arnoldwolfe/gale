@@ -1,4 +1,5 @@
-# Gale [](![Uploading Screenshot 2026-09-29 at 6.43.49 AM.png…]())
+# Gale <img width="360" height="185" alt="Screenshot 2026-09-29 at 6 43 49 AM" src="https://github.com/user-attachments/assets/4e99885e-e2b2-4df3-ad10-f187f78688a1" />
+
  
 
 [![Hex.pm](https://img.shields.io/hexpm/v/gale.svg)](https://hex.pm/packages/gale)
