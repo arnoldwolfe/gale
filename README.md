@@ -1,4 +1,5 @@
-# Gale
+# Gale [](![Uploading Screenshot 2026-09-29 at 6.43.49 AM.png…]())
+ 
 
 [![Hex.pm](https://img.shields.io/hexpm/v/gale.svg)](https://hex.pm/packages/gale)
 [![Hexdocs](https://img.shields.io/badge/hex-docs-purple.svg)](https://hexdocs.pm/gale)
@@ -31,6 +32,7 @@ end
 ```
 
 Then add the adapter to your Phoenix endpoint:
+
 
 ```elixir
 # config/config.exs
